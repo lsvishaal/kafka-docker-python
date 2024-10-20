@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+kafka-env/
+.env
+*.log
+.dockerignore
