@@ -23,7 +23,7 @@ try:
 
         print(f"Sent message {message_count}")
 
-        # Increment message count for differentiation
+        # Increment message count for differentiation.
         message_count += 1
 
         # Sleep for 1 second before sending the next message (adjust as needed)
